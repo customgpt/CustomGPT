@@ -40,35 +40,22 @@ Start a conversation by entering your message in the text input field and tappin
 
 Receive the AI model's response in the chat area.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Contributions:
+Contributions are welcome! If you'd like to contribute to this project, even as a beta tester, please follow these steps:
+-Join the discord link in this page and DM me directly
+-Send me a simple paragraph describing how the app can be better anf what role you would like to play in this project.
 
-Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+Acknowledgements:
+This project was made to utilize the power of different ChatGPT based API's, developed by various amazing members in the github community.
 
-Fork the repository.
-
-Create a new branch:
-
-shell
-Copy code
-git checkout -b feature/your-feature-name
-Make your modifications and commit your changes.
-
-Push the branch to your forked repository.
-
-Open a pull request in this repository with a detailed description of your changes.
-
-Acknowledgements
-This project utilizes the power of ChatGPT, developed by OpenAI. Visit their website at https://www.openai.com/ to learn more.
-Contact
+Contact:
 For any questions or suggestions, please feel free to reach join this discord: https://discord.gg/6aCdjUARgJ
 
-vbnet
-Copy code
 
-Replace the placeholders (`your-username`, `your-feature-name`, `your-email@example.com`) with appropriate information. Additionally, ensure that you have a `LICENSE` file in your repository root directory if you want to specify a license.
+Once In App:
 
-Once you've made the necessary modifications, you can commit and push the README file to your GitHub repository. Your users will then be able to access the README and download your APK from the repository.
+Input the necessary information to establish a connection through the placeholders (`API ENDPOINT', `API KEY`) with appropriate information. Additionally, if you want to set a optional system behavior for the bot then feel free to insert one in the "Instruction Prompt" bubble. Make sure to follow OpenAI's policies and guidelines when using any API based off them. Everything else in the app will be self explanatory.
+
+Once you've made the necessary modifications, you can click the "SAVE" button, the app will attempt to establish a connection to the endpoint
 
 Remember to customize the template according to the specific details of your app and API end
