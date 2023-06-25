@@ -62,7 +62,7 @@ Open a pull request in this repository with a detailed description of your chang
 Acknowledgements
 This project utilizes the power of ChatGPT, developed by OpenAI. Visit their website at https://www.openai.com/ to learn more.
 Contact
-For any questions or suggestions, please feel free to reach out to me at your-email@example.com.
+For any questions or suggestions, please feel free to reach join this discord: https://discord.gg/6aCdjUARgJ
 
 vbnet
 Copy code
