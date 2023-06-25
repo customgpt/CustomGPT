@@ -1,16 +1,40 @@
-### Hi there 👋
+If you have any questions or need assistance, please join [Discord]
+Welcome to Pacific Engine!
+ChatGPT API Free Reverse Proxy is a free reverse proxy to OpenAI API that allows users to access OpenAI API for free.
 
-<!--
-**customgpt/CustomGPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Table of Contents
+Features
 
-Here are some ideas to get you started:
+How to use ChatGPT API Reverse Proxy: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Self-Host Your Own API:
+
+*Text Completion
+*Chat Completion (ChatGPT)
+
+
+Features:
+Free - The APP is free!
+Note: Self-hosting it isn't free, you need to use your OpenAI Account credit.
+
+How to use ChatGPT API Reverse Proxy
+You can use ChatGPT API Reverse Proxy by choosing one of the following methods:
+
+Self-Host Your Own API
+Use Our Hosted API
+‌
+
+Self-Host Your Own API:
+To self-host your own ChatGPT API, you can use the following steps:
+
+1. Create an OpenAI API Key
+Clone this repository and install the dependencies:
+git clone https://github.com/PawanOsman/ChatGPT.git
+cd ChatGPT
+npm install
+Set your OpenAI key and other configurations in the config.js file.
+Start the server:
+npm start
+Use the API by sending an HTTP request to the API endpoints for example:
+http://localhost:3000/v1/completions
+http://localhost:3000/v1/chat/completions
