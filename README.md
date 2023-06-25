@@ -6,9 +6,9 @@ Welcome to CustomGPT! This application allows you to interact with ChatGPT-based
 
 ## Main Features
 
-- Use a custom API endpoint to communicate with ChatGPT.
-- In-app customization options for enhanced user experience.
-- Receive text-based responses from the AI model.
+- Similar to BetterGPT, You can use a custom API endpoint to communicate with ChatGPT.
+- In-app customization options are available for an enhanced conversational experience.
+- Receive more focused based responses based on optional system behavior you can set for the bot.
 
 
 ## Prerequisites
@@ -24,7 +24,7 @@ Before you get started, ensure that you have the following prerequisites:
 Follow these steps to install CustomGPT:
 
 1. Find the APK file on this page.
-2. Download the APK file and install it on your Android device, similar to any other Android app. The app will request permission to access the internet for sending requests to your designated API.
+2. Download the APK file and install it on your Android device, similar to any other Android app. The app will only request permission to access the internet for sending requests to your designated API.
 3. Run the application on your Android device or emulator and enjoy.
 
 Please note: You can run a virus check on the APK file if desired. The APK file will not be open source at the moment to prevent potential misuse of the code.
