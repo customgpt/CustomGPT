@@ -1,4 +1,4 @@
-# CustomGPT For Android (WIP, BETA AVAILABLE)
+# CustomGPT For Android (BETA, WIP)
 
 Welcome to CustomGPT! This application allows you to interact with ChatGPT-based APIs using any ChatGPT-related API endpoint. You can enter your preferred API endpoint and have conversations with any AI-powered model of your choice!
 
