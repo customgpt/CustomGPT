@@ -46,13 +46,13 @@ Please note: You can run a virus check on the APK file if desired. The APK file 
 Contributions are welcome! If you'd like to contribute to this project, even as a beta tester, please follow these steps:
 
 - Join the Discord community: [https://discord.gg/6aCdjUARgJ](https://discord.gg/6aCdjUARgJ)
-- Direct message the project creator with a brief paragraph describing how you think the app can be improved and what role you would like to play in the project.
+- Direct message me with a brief paragraph describing how you think the app can be improved and what role you would like to play in the project.
 
 
 ## Acknowledgements
 
 This project utilizes the power of various ChatGPT-based APIs developed by talented members of the GitHub community. Please use this project responsibly and adhere to OpenAI's policies and guidelines when using any API based on their technology.
-This is currently a one-man job, I made this app because I have a passion for coding and thought it would be useful to some of you. Stay tuned as more updates are coming soon!
+This is currently a one-man job, I made this app because I have a passion for coding and thought it would be useful to some of you. Stay tuned as more updates are coming soon! :-)
 
 
 ## Contact
