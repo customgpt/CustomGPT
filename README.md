@@ -1,6 +1,6 @@
 # CustomGPT For Android (BETA, WIP)
 
-Welcome to CustomGPT! This application allows you to interact with ChatGPT-based APIs using any ChatGPT-related API endpoint. You can enter your preferred API endpoint and have conversations with any AI-powered model of your choice! The main goal of this project is to provide users with a fully customizable ChatGPT app, allowing them to personalize their conversational experience according to their desires. From setting custom themes to defining the behavior of the bot, the possibilities will eventually be endless.
+Welcome to CustomGPT! This application allows you to interact with ChatGPT-based APIs using any ChatGPT-related API endpoint. You can enter your preferred API endpoint and have conversations with any AI-powered model of your choice! The main goal of this project is to provide users with a fully customizable ChatGPT app, allowing them to personalize their conversational experience according to their desires. From setting custom themes to defining the behavior of the bot, we aim to take all the possibilites you can do with ChatGPT to the next level.
 
 [![License]()]()
 
