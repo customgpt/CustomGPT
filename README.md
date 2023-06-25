@@ -58,9 +58,4 @@ This is a one-man job, made this app within a day. Stay tuned as more updates ar
 
 
 ## Contact
-<img width="1920" alt="Screenshot 2023-06-25 130307" src="https://github.com/customgpt/CustomGPT/assets/19657840/916d0ce4-319c-4474-abe5-cfbc958edbed">
-![Uploading Screenshot 2023-06-25 130249.png…]()
-<img width="1920" alt="Screenshot 2023-06-25 130236" src="https://github.com/customgpt/CustomGPT/assets/19657840/828a75da-61ee-4e54-9543-b7ee05e1c372">
-<img width="1920" alt="Screenshot 2023-06-25 123959" src="https://github.com/customgpt/CustomGPT/assets/19657840/81c4470c-43f4-4a2f-b171-d0db752a2138">
-
 For any questions or suggestions, please join the Discord community: [https://discord.gg/6aCdjUARgJ](https://discord.gg/6aCdjUARgJ)
