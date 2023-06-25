@@ -6,16 +6,14 @@ Welcome to CustomGPT! This application allows you to interact with ChatGPT-based
 
 ## Main Features
 
-- Similar to BetterGPT, You can use a custom API endpoint to communicate with ChatGPT.
+- Similar to "BetterGPT", You can use a custom API endpoint to communicate with ChatGPT.
 - In-app customization options are available for an enhanced conversational experience.
 - Receive more focused based responses based on optional system behavior you can set for the bot.
-
+- Access to an API endpoint such as ChimeraGPT, Pawam.krd, Skailar, or any API based on ChatGPT.
 
 ## Prerequisites
 
 Before you get started, ensure that you have the following prerequisites:
-
-- Access to an API endpoint such as ChimeraGPT, Pawam.krd, Skailar, or any API based on ChatGPT.
 - An Android device or emulator running Android 6.0 (Marshmallow) or above.
 
 
