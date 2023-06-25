@@ -1,6 +1,6 @@
 # CustomGPT For Android
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License]()
 
 Welcome to CustomGPT! This application was simply made to allow anyone to interact with ChatGPT based API's using any ChatGPT related API endpoint. You can enter your preferred API endpoint and have conversations with any AI-powered model of your choice!
 
