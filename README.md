@@ -49,12 +49,3 @@ This project utilizes the power of various ChatGPT-based APIs developed by talen
 ## Contact
 
 For any questions or suggestions, please join the Discord community: [https://discord.gg/6aCdjUARgJ](https://discord.gg/6aCdjUARgJ)
-
-## In-App Instructions
-
-To establish a connection with your API endpoint, follow these steps:
-
-1. Launch the app and navigate to the main screen.
-2. Fill in the required information for the API endpoint, such as the `API ENDPOINT` and `API KEY`.
-3. Optionally, you can provide an instruction prompt for the AI model's behavior in the "Instruction Prompt" bubble.
-4. Click the "Save" button to establish a connection to the API endpoint
