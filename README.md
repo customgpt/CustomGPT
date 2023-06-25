@@ -54,4 +54,4 @@ This is a one-man job, made this app within a day. Stay tuned as more updates ar
 
 
 ## Contact
-For any questions or suggestions, please join the Discord community: [https://discord.gg/6aCdjUARgJ](https://discord.gg/6aCdjUARgJ)
+For any questions or suggestions, please join our Discord community: [https://discord.gg/6aCdjUARgJ](https://discord.gg/6aCdjUARgJ)
