@@ -1,8 +1,3 @@
-
-Certainly! I can help you create a GitHub README for your app. Here's a template you can use as a starting point:
-
-vbnet
-Copy code
 # CustomGPT App
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
