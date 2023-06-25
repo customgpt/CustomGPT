@@ -8,12 +8,12 @@ Welcome to CustomGPT! This application allows you to interact with ChatGPT-based
 
 - In-app customization options are available for an enhanced conversational experience.
 - Similar to "BetterGPT", You can use a custom API endpoint to communicate with ChatGPT.
-- Receive more focused based responses based on optional system behavior you can set for the bot.
-- Specify an API endpoint such as 'ChimeraGPT', 'Pawam.krd', 'Skailar, FreeChatGPT4', or any other API based on ChatGPT.
+- Receive more focused based responses based on an optional system behavior you can set for the bot.
+- Specify an API endpoint such as 'ChimeraGPT', 'Pawam.krd', 'Skailar', FreeChatGPT4', or any other API based on ChatGPT.
 - Save/Delete local conversations you've had on your device
-- Access to real time internet data (coming soon)
-- Set Custom Profile Pictures for the bot (coming soon)
-- And more!
+- Set Custom Profile Pictures for the bot (coming soon!)
+- Access to real time internet data for any endpoint (coming soon!)
+- Generate images through prompts (coming soon!)
 
 
 ## Prerequisites
