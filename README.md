@@ -1,3 +1,7 @@
+<img width="1920" alt="Screenshot 2023-06-25 130810" src="https://github.com/customgpt/CustomGPT/assets/19657840/58f3725b-5f56-4603-9cd9-acf5871195aa">
+<img width="1920" alt="Screenshot 2023-06-25 130739" src="https://github.com/customgpt/CustomGPT/assets/19657840/32586c22-928b-4d56-97af-13ea4bc0efe6">
+<img width="1920" alt="Screenshot 2023-06-25 130709" src="https://github.com/customgpt/CustomGPT/assets/19657840/7fd8cffb-e414-4682-b03c-65db70d84528">
+<img width="1920" alt="Screenshot 2023-06-25 130324" src="https://github.com/customgpt/CustomGPT/assets/19657840/5f849560-8b01-4de5-a3dc-4f3f915fc99a">
 # CustomGPT For Android
 
 Welcome to CustomGPT! This application allows you to interact with ChatGPT-based APIs using any ChatGPT-related API endpoint. You can enter your preferred API endpoint and have conversations with any AI-powered model of your choice!
@@ -54,5 +58,9 @@ This is a one-man job, made this app within a day. Stay tuned as more updates ar
 
 
 ## Contact
+<img width="1920" alt="Screenshot 2023-06-25 130307" src="https://github.com/customgpt/CustomGPT/assets/19657840/916d0ce4-319c-4474-abe5-cfbc958edbed">
+![Uploading Screenshot 2023-06-25 130249.png…]()
+<img width="1920" alt="Screenshot 2023-06-25 130236" src="https://github.com/customgpt/CustomGPT/assets/19657840/828a75da-61ee-4e54-9543-b7ee05e1c372">
+<img width="1920" alt="Screenshot 2023-06-25 123959" src="https://github.com/customgpt/CustomGPT/assets/19657840/81c4470c-43f4-4a2f-b171-d0db752a2138">
 
 For any questions or suggestions, please join the Discord community: [https://discord.gg/6aCdjUARgJ](https://discord.gg/6aCdjUARgJ)
