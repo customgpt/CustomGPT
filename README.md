@@ -52,7 +52,7 @@ Contributions are welcome! If you'd like to contribute to this project, even as 
 ## Acknowledgements
 
 This project utilizes the power of various ChatGPT-based APIs developed by talented members of the GitHub community. Please use this project responsibly and adhere to OpenAI's policies and guidelines when using any API based on their technology.
-This is currently a one-man job, I made this app because I have a passion for coding and thought it would be useful to some of you. Stay tuned as more updates are coming soon! :-)
+This is currently a one-man job, I made this app because I have a passion for coding and thought it would be useful to some of you. Stay tuned as more updates are coming soon!
 
 
 ## Contact
