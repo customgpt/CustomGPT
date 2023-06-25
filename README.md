@@ -14,7 +14,7 @@ Welcome to CustomGPT! This application was simply made to allow anyone to intera
 
 Before you get started, ensure that you have the following prerequisites:
 
-- You have proper access to an API endpoints such as ChimeraGPT, Pawam.krd Skailar, or any API that is based off ChatGPT. 
+- You have proper access to an API endpoints such as ChimeraGPT, Pawam.krd, Skailar, or any API that is based off ChatGPT. 
 - Android device or emulator running Android 6.0 (Marshmallow) or above.
 
 ## Installation
