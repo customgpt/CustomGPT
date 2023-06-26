@@ -12,7 +12,7 @@ Welcome to CustomGPT! This application allows you to interact with ChatGPT-based
 - Save/Delete/Critique conversations you've had with your bot on your device.
 - Lightweight android app. (Size: 5 MB)
 - Set Custom Profile Pictures for the bot (coming next update!)
-  ## Future Features:
+  ## Planned Features:
 - Access real time internet data for any endpoint (fine-tuning, coming next update!)
 - Generate images through prompts for any endpoint (coming soon!)
 - Train AI based on a given text file (coming soon!)
