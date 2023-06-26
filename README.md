@@ -14,10 +14,10 @@ Welcome to CustomGPT! This application allows you to interact with ChatGPT-based
 - Set Custom Profile Pictures for the bot (coming next update!)
   ## Planned Features:
 - Access real time internet data for any endpoint (fine-tuning, coming next update!)
-- Generate images through prompts for any endpoint (coming soon!)
-- Train AI based on a given text file (coming soon!)
-- Multiple commands support (coming soon!)
-- Automatic prompt generator using the latest conversaton context (coming soon!)
+- Generate images through prompts for any endpoint
+- Train AI based on a given text file
+- Multiple commands support
+- Automatic prompt generator using the latest conversaton context
 
 ## Prerequisites
 
